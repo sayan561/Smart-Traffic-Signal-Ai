@@ -1,0 +1,21 @@
+road,vehicles,waiting_time,signal_time
+Road A,20,10,15
+Road A,40,20,25
+Road A,60,30,35
+Road A,80,40,45
+Road A,100,50,55
+Road B,15,8,12
+Road B,35,18,22
+Road B,55,28,32
+Road B,75,38,42
+Road B,95,48,52
+Road C,25,12,18
+Road C,45,22,28
+Road C,65,32,38
+Road C,85,42,48
+Road C,105,52,58
+Road D,10,5,10
+Road D,30,15,20
+Road D,50,25,30
+Road D,70,35,40
+Road D,90,45,50
